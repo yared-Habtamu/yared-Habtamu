@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yared Habtamu</h1>
-<h3 align="center">Backend Developer | Django Specialist</h3>
+<h3 align="center">Backend Developer | Django</h3>
 
 - 🔭 I build robust web applications using Django
 - 🌱 Currently expanding my skills in React and Advanced Frontend
