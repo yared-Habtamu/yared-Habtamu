@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#27ae60">Yared Habtamu</span></h1>
+<h1 align="center">Selam, 👋, I'm <span style="color:#27ae60">Yared Habtamu</span></h1>
 <h3 align="center">🌍 Passionate Backend Developer & Aspiring Full-Stack Engineer | ALX ProDev Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Efficient+Backends+%F0%9F%9B%A0;Building+Scalable+Web+Solutions;Full-Stack+Developer+in+the+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Efficient+Backends+%F0%9F%9B%A0;Building+Scalable+Web+Solutions;FFull-Stack+Developer+in+the+Making" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,40 +46,85 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaredhab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaredhab&theme=tokyonight" alt="GitHub Streak">
+  <!-- GitHub Stats Card -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yared-Habtamu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'">
+   -->
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yared-Habtamu&theme=tokyonight" alt="GitHub Streak" onerror="this.style.display='none'">
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredhab&layout=compact&theme=tokyonight" alt="Top Languages">
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-Habtamu&layout=compact&theme=tokyonight" alt="Top Languages" onerror="this.style.display='none'">
 </p>
+<div align="center" id="stats-fallback" style="display: none; margin: 2rem 0;">
+  <h3 style="color: #27ae60; margin-bottom: 1rem;">My Coding Journey</h3>
+  <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">
+    ✨ Exploring new technologies and building impactful solutions
+  </p>
+  <a href="https://github.com/yared-Habtamu?tab=repositories" target="_blank" style="text-decoration: none;">
+    <button style="background: #27ae60; color: white; border: none; padding: 0.5rem 1rem; border-radius: 5px; font-weight: bold;">
+      View My GitHub Repositories
+    </button>
+  </a>
+</div>
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
-🔗 **Portfolio:** [jaredtech.pythonanywhere.com](https://jaredtech.pythonanywhere.com)  
-🔗 **GitHub Repos:** [github.com/Jaredhab](https://github.com/Jaredhab)  
+<div align="center" style="margin: 2rem 0;">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="left" style="border-bottom: 2px solid #27ae60; padding-bottom: 0.5rem;">Portfolio</h3>
+        <p align="left">
+          <a href="https://jaredtech.pythonanywhere.com" target="_blank">
+            <img src="https://img.shields.io/badge/Visit_Portfolio-27ae60?style=for-the-badge" alt="Portfolio">
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="left" style="border-bottom: 2px solid #27ae60; padding-bottom: 0.5rem;">GitHub</h3>
+        <p align="left">
+          <a href="https://github.com/yared-Habtamu" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github" alt="GitHub">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://twitter.com/jared_829" target="_blank">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/twitter" alt="Twitter">
+<div align="center" style="margin: 2rem 0;">
+  <!-- Twitter -->
+  <a href="https://twitter.com/jared_829" target="_blank" style="margin: 0 10px; display: inline-block;">
+    <img height="40" width="40" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/yared-habtamu-s08" target="_blank">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn">
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yared-habtamu-s08" target="_blank" style="margin: 0 10px; display: inline-block;">
+    <img height="40" width="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/jaredhab" target="_blank">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" alt="LeetCode">
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/JaredHab" target="_blank" style="margin: 0 10px; display: inline-block;">
+    <img height="40" width="40" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="mailto:yaredhabtamu08@gmail.com" target="_blank">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Email">
+  
+  <!-- Email -->
+  <a href="mailto:yaredhabtamu08@gmail.com" target="_blank" style="margin: 0 10px; display: inline-block;">
+    <img height="40" width="40" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+<div align="center" style="margin-top: 2rem; font-style: italic; color: #555;">
+  <p style="font-size: 1.1rem;">
+  </p>
+</div>
