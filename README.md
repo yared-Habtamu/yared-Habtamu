@@ -1,45 +1,86 @@
-<h1 align="center">Hi 👋, I'm Yared Habtamu</h1>
-<h3 align="center">Backend Developer | Django</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#27ae60">Yared Habtamu</span></h1>
+<h3 align="center">🌍 A Passionate Backend Developer & Aspiring Frontend Engineer | ALX ProDev Learner</h3>
 
-- 🔭 I build robust web applications using Django
-- 🌱 Currently expanding my skills in React and Advanced Frontend
-- 💡 Passionate about clean code and efficient systems
-- 📫 Reach me at **yaredhabtamu08@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Efficient+Backends+%F0%9F%9B%A0;Bringing+Ideas+to+Life+with+Code;Learning+Frontend+to+Become+Full-Stack" alt="Typing SVG" />
+</p>
 
-<h3 align="left">My Projects</h3>
-<p>Explore my work at <a href="https://jaredtech.pythonanywhere.com/" target="_blank">jaredtech.pythonanywhere.com</a></p>
+---
 
-<h3 align="left">Connect With Me</h3>
+## 🙋‍♂️ About Me
+
+💡 I started software engineering because I’ve always been curious about how technology can solve real-life problems.  
+💻 I'm currently in the **ALX ProDev Front-end program**, where I’m expanding my skills to become a versatile full-stack developer.  
+🎯 **My vision** is to contribute to impactful, scalable tech solutions that improve lives and communities.  
+🚀 I'm especially excited about working on **web applications**, **developer tools**, and **open-source platforms** that empower users and developers alike.
+
+---
+
+## 🧩 Tech Stack & Tools
+
+### 🔙 Backend
+![Django](https://cdn.worldvectorlogo.com/logos/django.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+
+### 🎨 Frontend
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+
+### 💾 Databases
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+
+### ⚒️ Tools & Platforms
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Vercel](https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaredhab&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaredhab&theme=tokyonight" alt="GitHub Streak" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredhab&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔗 Explore more of my work at: [jaredtech.pythonanywhere.com](https://jaredtech.pythonanywhere.com)
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://twitter.com/@jared_829" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jared_829" height="30" width="40" />
+  <a href="https://twitter.com/@jared_829" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" height="30" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/yared-habtamu-s08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yared-habtamu-s08" height="30" width="40" />
+  <a href="https://linkedin.com/in/yared-habtamu-s08" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.leetcode.com/jaredhab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaredhab" height="30" width="40" />
+  <a href="https://www.leetcode.com/jaredhab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="mailto:yaredhabtamu08@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Email" height="30" width="40"/>
   </a>
 </p>
 
-<h3 align="left">Technical Toolkit</h3>
-<div align="left">
-  <h4>Backend</h4>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  
-  <h4>Frontend</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  
-  <h4>Databases</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  
-  <h4>Tools</h4>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</div>
+---
+
+## 📅 Let’s Build Something Awesome!
+
+> _“Great code is not just written, it’s crafted with care and purpose.”_
+
+---
+
