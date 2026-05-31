@@ -27,8 +27,8 @@ const yared = {
   passion:     "Solving real-world problems through scalable technology",
   learning:    ["React", "Next.js", "AI/ML"],
   focus:       ["Web Applications", "Developer Tools", "Open Source"],
-  currently:   "ALX ProDev Front-end Program",
-  funFact:     "I debug code faster with Ethiopian coffee ☕",
+  currently:   "Working on real life problems as an intern",
+  funFact:     "I debug code faster with habeshan coffee ☕",
 };
 ```
 
